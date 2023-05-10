@@ -1,0 +1,12 @@
+.logo{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: medium;
+}
+.name-highlight{
+    color: rgba(109, 109, 99, 0.691);
+}
