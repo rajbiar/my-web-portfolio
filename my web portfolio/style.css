@@ -10,3 +10,69 @@ h3{
 .name-highlight{
     color: rgba(109, 109, 99, 0.691);
 }
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.tup{
+    font-size: 30px;
+    font-style: italic;
+    color: chocolate;
+}
+.link-button{
+    background-color: rgb(39, 32, 32);
+    color: rgb(230, 237, 237);
+    border-radius: 5px;
+    padding: 10px 10px;
+    text-decoration: none;
+    }
+    .top{
+        height: 400px;
+        background-image: url(image/header-bg.png);
+
+    }
+    .foot{
+        height: 400px;
+        background-image: url(image/footer-bg.png);
+    }
+    .one{
+        text-align: center;
+        
+    }
+    .work-1 img{
+        width: 100%;
+    }
+    .work-1{
+        float: left;
+        width: 30%;
+        margin: 5px;
+        padding-left: 10px;
+    }
+    .review{
+        text-align: center;
+    }
+    h5{
+        font-style: oblique;
+        
+        
+    }
+    .box{
+        background-color: rgb(117, 13, 34);
+        color: white;
+        width: 50%;
+        margin-left: 30%;
+        
+    
+        
+        
+    }
+    footer{
+        text-align: center;
+        font-size: small;
+    }
